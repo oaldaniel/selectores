@@ -1,0 +1,21 @@
+h1{font-size: 2em; font-style: italic;}
+
+.error{color: #ff0000;}
+
+div.texto p span{font-style: italic; color: #ff0000;}
+
+div#textoprincipal p span{font-style: italic; color: #ff0000;}
+
+div#textoprincipal{background: orange;}
+
+p{color: blue;}
+
+div.lista{background: yellow;}
+
+div.lista ul li p{background: red;}
+
+div#textoprincipal> p{border: 5px solid black}
+
+div#textoprincipal h2+p{color: purple;}
+
+p.marron~div.lista ul{background: brown}
